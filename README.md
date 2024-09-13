@@ -3,7 +3,7 @@
 
 - 🚀 I'm obsessed with aerospace software engineering — especially related to GNC (guidance, navigation, and control)
 
-- ✈️ Check out my (team) project, AirWise: Flight Weather Assessment [https://github.com/sarahstalbin/aviation_weather_app_capstone/tree/main/airwise_front_end](https://github.com/sarahstalbin/aviation_weather_app_capstone/tree/main/airwise_front_end)
+- ✈️ Check out my (team) project from Spring 2024, [AirWise: Flight Weather Assessment](https://github.com/sarahstalbin/aviation_weather_app_capstone/tree/main)
 
 - 📖 My Autumn 2024 coursework at the University of Washington includes TCSS 543 Advanced Algorithms and TCSS 555 Machine Learning
 
