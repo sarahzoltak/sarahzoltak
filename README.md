@@ -5,11 +5,9 @@
 
 - ✈️ Check out my (team) project from Spring 2024, [AirWise: Flight Weather Assessment](https://github.com/sarahstalbin/aviation_weather_app_capstone/tree/main)
 
-- 📖 My Autumn 2024 coursework at the University of Washington includes TCSS 543 Advanced Algorithms and TCSS 555 Machine Learning
+- 📖 My Winter 2025 coursework at the University of Washington includes TCSS 573 Internet of Things
 
 - 🌱 I'm independently learning MATLAB and Simulink, C/C++, and embedded RT programming
-
-- ✍🏻 I'm currently working on the very early stages of my Masters capstone project (safety-critical flight software)
 
 - ⚡ Good to know: My team's AirWise app (see link above!) was ranked the best capstone in the Graduate Certificate in Software Development Engineering program at UW Tacoma (2023-2024)
 
